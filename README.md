@@ -1,1 +1,1 @@
-Created a portfolio showcasing some of the projects created during SheCodes bootcamp.
+Created a portfolio showcasing some of the projects built during SheCodes bootcamp.
